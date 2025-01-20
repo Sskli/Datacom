@@ -1,0 +1,2 @@
+From 192.168.1.1: Destination host unreachable	是ping包没有去到目的地的路由
+Request timeout!	是ping包没有返回的路由，导致超时
